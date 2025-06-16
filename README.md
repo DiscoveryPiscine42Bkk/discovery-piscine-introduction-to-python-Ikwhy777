@@ -14,13 +14,13 @@ Have a question? Ask on Discord.
 The file structure for this repository is as follows:
 
 - cell0
-  - ex00
+  - ex00 --> cell0.0
     - exercise0.py
-  - ex01
+  - ex01 --> cell0.1
     - exercise1.py
   - ex02
     - exercise2.py
 
 - cell1
-  - ex00
+  - ex00 --> cell 1.0
     - exercise0.py
